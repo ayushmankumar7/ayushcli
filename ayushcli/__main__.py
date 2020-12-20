@@ -11,7 +11,7 @@ def main():
 
     my_function('hello world')
 
-    my_object = MyClass('Ayushman')
+    my_object = MyClass('Ayushman Kumar and this is cloned from my repo')
     my_object.say_name()
 
 if __name__ == '__main__':

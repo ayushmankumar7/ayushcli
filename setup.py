@@ -1,6 +1,6 @@
 from setuptools import setup
 setup(
-    name = 'pycli',
+    name = 'ayushcli',
     version = '0.1.0',
     packages = ['ayushcli'],
     entry_points = {
